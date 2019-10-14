@@ -1,0 +1,45 @@
+Title: Africando
+
+----
+
+Intro: 
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et error qui animi rerum iure enim quibusdam aliquid, saepe non consequuntur, velit deserunt facilis odit libero nostrum mollitia quas ratione debitis iusto exercitationem laboriosam accusantium rem, nisi temporibus. Delectus sequi qui totam quis. Impedit provident aliquam voluptatem quidem vitae at amet.
+
+
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et error qui animi rerum iure enim quibusdam aliquid, saepe non consequuntur, velit deserunt facilis odit libero nostrum mollitia quas ratione debitis iusto exercitationem laboriosam accusantium rem, nisi temporibus. Delectus sequi qui totam quis. Impedit provident aliquam voluptatem quidem vitae at amet.
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et error qui animi rerum iure enim quibusdam aliquid, saepe non consequuntur, velit deserunt facilis odit libero nostrum mollitia quas ratione debitis iusto exercitationem laboriosam accusantium rem, nisi temporibus. Delectus sequi qui totam quis. Impedit provident aliquam voluptatem quidem vitae at amet.
+
+----
+
+Withajax: 
+
+<strong>Quick read Africando</strong> 
+<br>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et error qui animi rerum iure enim quibusdam aliquid, saepe non consequuntur, velit deserunt facilis odit libero nostrum mollitia quas ratione debitis iusto exercitationem laboriosam accusantium rem, nisi temporibus. Delectus sequi qui totam quis. Impedit provident aliquam voluptatem quidem vitae at amet.
+
+----
+
+Typ: Album
+
+----
+
+Sup: 33T
+
+----
+
+Yea: 1980
+
+----
+
+Lab: LabeAfri
+
+----
+
+Cou: Senegal
+
+----
+
+Wr: Afrique

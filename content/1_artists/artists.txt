@@ -1,0 +1,98 @@
+Title: Single filters
+
+----
+
+Famtyp: 
+
+- 
+  typtitle: Album
+- 
+  typtitle: Compilation
+- 
+  typtitle: Single
+
+----
+
+Famsup: 
+
+- 
+  suptitle: 33T
+- 
+  suptitle: 45T
+- 
+  suptitle: Maxi33
+- 
+  suptitle: CD
+- 
+  suptitle: Cassette
+
+----
+
+Famyea: 
+
+- 
+  yeatitle: 1974
+- 
+  yeatitle: 1975
+- 
+  yeatitle: 1976
+- 
+  yeatitle: 1977
+- 
+  yeatitle: 1978
+- 
+  yeatitle: 1979
+- 
+  yeatitle: 1980
+- 
+  yeatitle: 1981
+- 
+  yeatitle: 1982
+
+----
+
+Famlab: 
+
+- 
+  labtitle: Fania
+- 
+  labtitle: Fonseca
+- 
+  labtitle: Borinquen
+- 
+  labtitle: Mericana Records
+- 
+  labtitle: LabeAfri
+
+----
+
+Famcou: 
+
+- 
+  coutitle: Colombia
+- 
+  coutitle: Puerto Rico
+- 
+  coutitle: USA
+- 
+  coutitle: Haiti
+- 
+  coutitle: Senegal
+
+----
+
+Famwr: 
+
+- 
+  wrtitle: West Indies
+- 
+  wrtitle: Europe
+- 
+  wrtitle: Amérique du nord
+- 
+  wrtitle: Amérique du sud
+- 
+  wrtitle: Afrique
+
+
+
