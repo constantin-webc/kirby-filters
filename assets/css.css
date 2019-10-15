@@ -70,11 +70,16 @@ h6 {
 }
 
 .topnav a {
-    margin: 0 10px;
-    text-decoration:none;
+    margin: 0 5px;
+text-decoration: none;
+font-weight: 700;
+border: 1px solid black;
+padding: 3px 7px;
+color: black;
 }
 .topnav a.active {
-    text-decoration:underline;
+    background:black;
+    color:white;
 }
 
 nav+h2 {
