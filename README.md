@@ -6,7 +6,7 @@ This could be a starting point for someone. Please consider I'm not a Kirby/php 
 even if it works correctly, this code may have some errors or can be better written. 
 
 See how it works here:
-<https://www.dev.constantinweb.com/kirby-filter-content/>
+<https://dev.rythmevertical.com/kirby-filters/>
 
 # Kirby Plainkit
 
